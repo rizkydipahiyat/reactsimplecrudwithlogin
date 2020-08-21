@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://rizky:rizky123@cluster0-qx05v.mongodb.net/mernshop?retryWrites=true&w=majority",
+	"jwtSecret": "sl_myJwtSecret"
+}
